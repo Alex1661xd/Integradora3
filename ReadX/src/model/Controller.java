@@ -626,14 +626,14 @@ public class Controller {
         if(numeroAnuncio==0){
             msg="..............................................";
             msg+="\n               -ADVERTISEMENT-";
-            msg+="            (Traducido al español)";
+            msg+="\n            (Traducido al español)";
             msg+="\n Pañales pequeñin con descuento del 10%";
             msg+="\n             ¡Adquierelos ya!";
             msg+="\n..............................................";
         }else if(numeroAnuncio==2||numeroAnuncio==20||numeroAnuncio==5){
             msg="..............................................";
             msg+="\n               -ADVERTISEMENT-";
-            msg+="            (Traducido al español)";
+            msg+="\n            (Traducido al español)";
             msg+="\n     ¿No sabes hacer la Integradora III?";
             msg+="\n\n-No te preocupes -Presiona (x) para mas info.";
             msg+="\n            Por tan solo 9.99";
